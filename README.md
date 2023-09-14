@@ -21,5 +21,9 @@ mkdir server
 cd server
 touch index.js
 npm init -y
+```
+
+```
 npm install body-parser cors express mongoose nodemon
+npm start
 ```
